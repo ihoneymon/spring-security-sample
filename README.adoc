@@ -1,0 +1,9 @@
+= [sample] Spring Security & User(Group, UserAuthority)
+honeymon, ihoneymon@gmail.com
+v0.0.1, ihoneymon@gmail.com
+
+
+스프링 시큐리티를 이용한 간단한 사용자 권한 관리 예제프로젝트
+
+== 시작하기
+``User`` 클래스를 기준으로 ``UserGroup``, ``Menu``, ``UserAuthority`` 의 구성을 살펴봐주면 좋겠습니다.

@@ -1,0 +1,4 @@
+logging:
+  level:
+    org.springframework.web: debug
+    io.honeymon.sample.ssecurity: debug
